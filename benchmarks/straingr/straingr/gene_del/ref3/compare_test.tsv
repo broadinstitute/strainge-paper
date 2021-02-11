@@ -1,0 +1,4 @@
+scaffold	common	commonPct	single	singlePct	singleAgree	singleAgreePct	variants	variantPct	commonVariant	commonVariantPct	variantAgree	variantAgreePct	transitions	tsPct	transversions	tvPct	AnotB	AnotBpct	AnotBweak	AnotBweakPct	BnotA	BnotApct	BnotAweak	BnotAweakPct	Agaps	AsharedGaps	AgapPct	Bgaps	BsharedGaps	BgapPct	gapJaccardSim
+NZ_CP024720.1	1190223	22.902	1190211	99.999	1190211	100.000	12	0.001	12	100.000	0	0.000	0	0.000	0	0.000	12	100.000	12	100.000	0	0.000	0	0.000	397013	397013	100.000	398493	398493	100.000	0.993
+NZ_CP024721.1	25283	22.619	25283	100.000	25283	100.000	0	0.000	0	0.000	0	0.000	0	0.000	0	0.000	0	0.000	0	0.000	0	0.000	0	0.000	3566	3566	100.000	4168	4168	100.000	0.856
+NZ_CP024722.1	1400	27.095	1400	100.000	1400	100.000	0	0.000	0	0.000	0	0.000	0	0.000	0	0.000	0	0.000	0	0.000	0	0.000	0	0.000	0	0	0.000	0	0	0.000	nan

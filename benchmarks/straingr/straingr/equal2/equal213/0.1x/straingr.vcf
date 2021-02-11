@@ -1,0 +1,39 @@
+##fileformat=VCFv4.0
+##fileDate=2020-06-08 18:33:26.858033
+##source=StrainGR
+##reference=/gsap/archive-bacterial/Projects/StrainGE/strainge-benchmarks/straingr_benchmarks/straingr/equal2/equal213/0.1x/concat_refs.fa
+##INFO=<ID=DP,Number=1,Type=Integer,Description="Coverage depth">
+##INFO=<ID=RQ,Number=1,Type=Integer,Description="Sum of reference base qualities">
+##INFO=<ID=MQ,Number=1,Type=Integer,Description="Mean mapping quality">
+##INFO=<ID=RF,Number=1,Type=Float,Description="Reference Fraction">
+##INFO=<ID=AD,Number=R,Type=Integer,Description="Allele read depths">
+##INFO=<ID=QS,Number=R,Type=Integer,Description="Sum of base qualities">
+##INFO=<ID=BF,Number=R,Type=Float,Description="Quality weighted base frequencies">
+##INFO=<ID=ST,Number=R,Type=Integer,Description="Which of the observed alleles have strong evidence">
+##ALT=<ID=INS,Description="Insertion">
+##ALT=<ID=DEL,Description="Deletion">
+##contig=<ID=NZ_CP029242.1,length=4893130>
+##contig=<ID=NZ_CP031916.1,length=5532455>
+#CHROM	POS	ID	REF	ALT	QUAL	FILTER	INFO
+NZ_CP029242.1	230384	.	T	A	.	PASS	DP=1;RQ=0;MQ=21;RF=0.0;AD=0,1;QS=0,74;ST=0,1
+NZ_CP029242.1	1503436	.	C	A	.	PASS	DP=2;RQ=0;MQ=27;RF=0.0;AD=0,2;QS=0,76;ST=0,1
+NZ_CP029242.1	2057182	.	T	G	.	PASS	DP=1;RQ=0;MQ=27;RF=0.0;AD=0,1;QS=0,68;ST=0,1
+NZ_CP029242.1	2325476	.	C	G	.	PASS	DP=1;RQ=0;MQ=60;RF=0.0;AD=0,1;QS=0,74;ST=0,1
+NZ_CP029242.1	2874965	.	G	T	.	PASS	DP=2;RQ=0;MQ=58;RF=0.0;AD=0,2;QS=0,52;ST=0,1
+NZ_CP029242.1	2943476	.	C	G	.	PASS	DP=2;RQ=0;MQ=38;RF=0.0;AD=0,2;QS=0,75;ST=0,1
+NZ_CP029242.1	3143845	.	C	T	.	PASS	DP=2;RQ=0;MQ=60;RF=0.0;AD=0,2;QS=0,76;ST=0,1
+NZ_CP029242.1	4373066	.	G	C	.	PASS	DP=2;RQ=0;MQ=48;RF=0.0;AD=0,2;QS=0,76;ST=0,1
+NZ_CP029242.1	4470843	.	T	C	.	PASS	DP=1;RQ=0;MQ=49;RF=0.0;AD=0,1;QS=0,76;ST=0,1
+NZ_CP031916.1	755625	.	G	C	.	PASS	DP=2;RQ=0;MQ=60;RF=0.0;AD=0,2;QS=0,76;ST=0,1
+NZ_CP031916.1	777599	.	A	C	.	PASS	DP=2;RQ=0;MQ=60;RF=0.0;AD=0,2;QS=0,76;ST=0,1
+NZ_CP031916.1	1541535	.	C	T	.	PASS	DP=1;RQ=0;MQ=27;RF=0.0;AD=0,1;QS=0,76;ST=0,1
+NZ_CP031916.1	1567762	.	G	C	.	PASS	DP=2;RQ=0;MQ=24;RF=0.0;AD=0,2;QS=0,76;ST=0,1
+NZ_CP031916.1	1567797	.	T	A	.	PASS	DP=2;RQ=0;MQ=24;RF=0.0;AD=0,2;QS=0,76;ST=0,1
+NZ_CP031916.1	1567856	.	G	A	.	PASS	DP=2;RQ=0;MQ=24;RF=0.0;AD=0,2;QS=0,76;ST=0,1
+NZ_CP031916.1	1586289	.	A	C	.	PASS	DP=2;RQ=0;MQ=60;RF=0.0;AD=0,2;QS=0,75;ST=0,1
+NZ_CP031916.1	2257516	.	A	C	.	PASS	DP=1;RQ=0;MQ=27;RF=0.0;AD=0,1;QS=0,72;ST=0,1
+NZ_CP031916.1	2573615	.	T	C	.	PASS	DP=2;RQ=0;MQ=49;RF=0.0;AD=0,2;QS=0,76;ST=0,1
+NZ_CP031916.1	3584396	.	T	G	.	PASS	DP=2;RQ=0;MQ=60;RF=0.0;AD=0,2;QS=0,76;ST=0,1
+NZ_CP031916.1	4115327	.	G	C	.	PASS	DP=2;RQ=0;MQ=60;RF=0.0;AD=0,2;QS=0,54;ST=0,1
+NZ_CP031916.1	4705189	.	G	C	.	PASS	DP=1;RQ=0;MQ=60;RF=0.0;AD=0,1;QS=0,73;ST=0,1
+NZ_CP031916.1	5145924	.	C	G	.	PASS	DP=1;RQ=0;MQ=33;RF=0.0;AD=0,1;QS=0,76;ST=0,1

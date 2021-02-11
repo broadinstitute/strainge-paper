@@ -1,0 +1,6 @@
+sample	totalkmers	distinct	pkmers	pkcov	pan%
+sample	2330597055	339621829	74994	10.111	3.253
+i	strain	gkmers	ikmers	skmers	cov	kcov	gcov	acct	even	spec	rapct	wscore	score
+0	Esch_coli_ML35	47425	47395	74994	1.000	11.604	11.251	0.725	1.000	0.729	2.372	0.529	0.725
+1	Esch_coli_ATCC_11775	48323	24381	27613	0.940	7.739	7.214	0.851	0.941	1.030	1.516	0.688	0.709
+2	Esch_coli_UM146	49228	4072	4689	0.442	7.577	3.311	0.440	0.459	0.990	0.708	0.040	0.041

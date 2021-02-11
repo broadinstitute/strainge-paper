@@ -1,0 +1,7 @@
+sample	totalkmers	distinct	pkmers	pkcov	pan%
+sample	2330962809	340665209	41889	1.698	0.305
+i	strain	gkmers	ikmers	skmers	cov	kcov	gcov	acct	even	spec	rapct	wscore	score
+0	Esch_coli_FORC_064	47303	47267	41889	0.664	1.807	1.169	0.798	0.964	0.814	0.244	0.401	0.493
+1	Shig_dysenteriae_E670_74	44811	15849	10482	0.401	1.414	0.516	0.626	0.994	1.027	0.111	0.241	0.248
+2	Shig_flexneri_ATCC_29903	42595	9166	4131	0.307	1.236	0.365	0.647	0.997	1.044	0.073	0.189	0.197
+3	Esch_coli_J53	45796	3285	1321	0.248	1.290	0.305	0.555	0.943	1.115	0.061	0.110	0.122

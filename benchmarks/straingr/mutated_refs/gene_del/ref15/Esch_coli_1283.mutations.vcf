@@ -1,0 +1,12 @@
+##fileformat=VCFv4.2
+##FILTER=<ID=PASS,Description="All filters passed">
+##fileDate=2020-06-04 12:57:59
+##source=mutate_ref.py
+##reference=file:///gsap/archive-bacterial/Projects/StrainGE/strainge-benchmarks/00-ref-genomes/refseq/bacteria/GCF_002310735.1/GCF_002310735.1_ASM231073v1_genomic.fna.gz
+##contig=<ID=NZ_CP023371.1,length=4677088>
+##contig=<ID=NZ_CP023372.1,length=109207>
+##contig=<ID=NZ_CP023374.1,length=3173>
+##contig=<ID=NZ_CP023373.1,length=31364>
+##contig=<ID=NZ_CP023375.1,length=6800>
+##contig=<ID=NZ_CP023376.1,length=92420>
+#CHROM	POS	ID	REF	ALT	QUAL	FILTER	INFO
