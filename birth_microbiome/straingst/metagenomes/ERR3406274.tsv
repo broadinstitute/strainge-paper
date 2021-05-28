@@ -1,0 +1,7 @@
+sample	totalkmers	distinct	pkmers	pkcov	pan%
+ERR3406274	1432908355	103972510	33348	1.727	0.402
+i	strain	gkmers	ikmers	skmers	cov	kcov	gcov	acct	even	spec	rapct	old_rapct	wscore	score
+0	Ente_sp._CR-Ec1	37765	37736	33348	0.535	1.788	0.948	0.627	0.874	0.955	0.110	0.252	0.245	0.256
+1	Ente_casseliflavus_EC-369	35222	21377	13148	0.204	1.515	0.305	0.307	0.775	0.985	0.147	0.046	0.037	0.038
+2	Ente_gilvus_CR1	28244	28124	8790	0.113	1.150	0.128	0.245	0.934	0.980	0.073	0.025	0.024	0.024
+3	Ente_gallinarum_FDAARGOS_163	37025	8170	5626	0.199	1.582	0.313	0.228	0.739	1.007	0.072	0.018	0.025	0.025

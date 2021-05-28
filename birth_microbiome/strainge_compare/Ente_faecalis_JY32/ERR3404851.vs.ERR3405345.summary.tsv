@@ -1,0 +1,3 @@
+sample1	sample2	ref	scaffold	length	common	commonPct	single	singlePct	singleAgree	singleAgreePct	multi	multiPct	sharedAlleles	sharedAllelesPct	variants	variantPct	commonVariant	commonVariantPct	variantExact	variantExactPct	AnotB	AnotBpct	BnotA	BnotApct	Agaps	AgapPct	Bgaps	BgapPct	gapJaccardSim
+ERR3404851	ERR3405345	Ente_faecalis_FDAARGOS_324	NZ_CP028285.1	2928142	586372	20.0254	586261	99.9811	586215	99.9922	111	0.0189	586326	99.9922	208	0.0355	162	77.8846	51	24.5192	137	65.8654	20	9.6154	116255	100.0000	152304	77.8515	0.9834
+ERR3404851	ERR3405345	Ente_faecalis_JY32	NZ_CP045045.1	2933718	1367059	46.5982	1366581	99.9650	1366321	99.9810	478	0.0350	1366799	99.9810	1132	0.0828	872	77.0318	463	40.9011	283	25.0000	321	28.3569	195238	97.3699	197495	100.0000	0.9910

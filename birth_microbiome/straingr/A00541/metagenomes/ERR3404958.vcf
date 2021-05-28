@@ -1,0 +1,29 @@
+##fileformat=VCFv4.0
+##fileDate=2021-04-02 01:23:43.197622
+##source=StrainGR
+##reference=/gsap/archive-bacterial/Projects/StrainGE/strainge-benchmarks/birth_microbiome/straingr/concat_refs/A00541.fa
+##INFO=<ID=DP,Number=1,Type=Integer,Description="Coverage depth">
+##INFO=<ID=RQ,Number=1,Type=Integer,Description="Sum of reference base qualities">
+##INFO=<ID=MQ,Number=1,Type=Integer,Description="Mean mapping quality">
+##INFO=<ID=RF,Number=1,Type=Float,Description="Reference Fraction">
+##INFO=<ID=AD,Number=R,Type=Integer,Description="Allele read depths">
+##INFO=<ID=QS,Number=R,Type=Integer,Description="Sum of base qualities">
+##INFO=<ID=BF,Number=R,Type=Float,Description="Quality weighted base frequencies">
+##INFO=<ID=ST,Number=R,Type=Integer,Description="Which of the observed alleles have strong evidence">
+##ALT=<ID=INS,Description="Insertion">
+##ALT=<ID=DEL,Description="Deletion">
+##contig=<ID=NC_020995.1,length=3427276>
+##contig=<ID=NZ_CP050490.1,length=3450044>
+#CHROM	POS	ID	REF	ALT	QUAL	FILTER	INFO
+NC_020995.1	3149944	.	C	A	.	PASS	DP=2;RQ=0;MQ=20;RF=0.0;AD=0,2;QS=0,70;ST=0,1
+NC_020995.1	3149953	.	G	T	.	PASS	DP=2;RQ=0;MQ=20;RF=0.0;AD=0,2;QS=0,74;ST=0,1
+NC_020995.1	3149967	.	G	C	.	PASS	DP=2;RQ=0;MQ=20;RF=0.0;AD=0,2;QS=0,74;ST=0,1
+NC_020995.1	3149968	.	A	T	.	PASS	DP=2;RQ=0;MQ=20;RF=0.0;AD=0,2;QS=0,74;ST=0,1
+NC_020995.1	3149978	.	A	G	.	PASS	DP=2;RQ=0;MQ=20;RF=0.0;AD=0,2;QS=0,74;ST=0,1
+NC_020995.1	3150003	.	A	T	.	PASS	DP=2;RQ=0;MQ=20;RF=0.0;AD=0,2;QS=0,74;ST=0,1
+NC_020995.1	3150004	.	C	A	.	PASS	DP=2;RQ=0;MQ=20;RF=0.0;AD=0,2;QS=0,74;ST=0,1
+NC_020995.1	3150010	.	C	A	.	PASS	DP=2;RQ=0;MQ=20;RF=0.0;AD=0,2;QS=0,74;ST=0,1
+NC_020995.1	3150012	.	T	A	.	PASS	DP=2;RQ=0;MQ=20;RF=0.0;AD=0,2;QS=0,74;ST=0,1
+NC_020995.1	3150013	.	T	G	.	PASS	DP=2;RQ=0;MQ=20;RF=0.0;AD=0,2;QS=0,74;ST=0,1
+NC_020995.1	3150031	.	C	G	.	PASS	DP=2;RQ=0;MQ=20;RF=0.0;AD=0,2;QS=0,74;ST=0,1
+NC_020995.1	3150036	.	G	C	.	PASS	DP=2;RQ=0;MQ=20;RF=0.0;AD=0,2;QS=0,74;ST=0,1

@@ -1,0 +1,33 @@
+##fileformat=VCFv4.0
+##fileDate=2021-04-02 10:42:00.856790
+##source=StrainGR
+##reference=/gsap/archive-bacterial/Projects/StrainGE/strainge-benchmarks/birth_microbiome/straingr/concat_refs/B01540.fa
+##INFO=<ID=DP,Number=1,Type=Integer,Description="Coverage depth">
+##INFO=<ID=RQ,Number=1,Type=Integer,Description="Sum of reference base qualities">
+##INFO=<ID=MQ,Number=1,Type=Integer,Description="Mean mapping quality">
+##INFO=<ID=RF,Number=1,Type=Float,Description="Reference Fraction">
+##INFO=<ID=AD,Number=R,Type=Integer,Description="Allele read depths">
+##INFO=<ID=QS,Number=R,Type=Integer,Description="Sum of base qualities">
+##INFO=<ID=BF,Number=R,Type=Float,Description="Quality weighted base frequencies">
+##INFO=<ID=ST,Number=R,Type=Integer,Description="Which of the observed alleles have strong evidence">
+##ALT=<ID=INS,Description="Insertion">
+##ALT=<ID=DEL,Description="Deletion">
+##contig=<ID=NZ_CP034169.1,length=4794392>
+##contig=<ID=NZ_CP068132.1,length=3438280>
+#CHROM	POS	ID	REF	ALT	QUAL	FILTER	INFO
+NZ_CP068132.1	1753329	.	G	A	.	PASS	DP=2;RQ=0;MQ=14;RF=0.0;AD=0,2;QS=0,64;ST=0,1
+NZ_CP068132.1	1753331	.	C	T	.	PASS	DP=2;RQ=0;MQ=14;RF=0.0;AD=0,2;QS=0,74;ST=0,1
+NZ_CP068132.1	1753406	.	G	T	.	PASS	DP=5;RQ=0;MQ=15;RF=0.0;AD=0,5;QS=0,162;ST=0,1
+NZ_CP068132.1	1753407	.	A	T	.	PASS	DP=5;RQ=0;MQ=15;RF=0.0;AD=0,5;QS=0,181;ST=0,1
+NZ_CP068132.1	1753408	.	A	G	.	PASS	DP=5;RQ=0;MQ=15;RF=0.0;AD=0,5;QS=0,181;ST=0,1
+NZ_CP068132.1	1753424	.	A	<DEL>	.	PASS	DP=5;RQ=66;MQ=15;RF=0.373;AD=2,3;QS=66,111;ST=1,1
+NZ_CP068132.1	1753425	.	A	G	.	PASS	DP=5;RQ=111;MQ=15;RF=0.653;AD=3,2;QS=111,59;ST=1,1
+NZ_CP068132.1	1753428	.	C	<INS>	.	PASS	DP=3;RQ=0;MQ=16;RF=0.0;AD=0,3;QS=0,101;ST=0,1
+NZ_CP068132.1	1753430	.	C	T	.	PASS	DP=3;RQ=0;MQ=16;RF=0.0;AD=0,3;QS=0,111;ST=0,1
+NZ_CP068132.1	1753433	.	G	C	.	PASS	DP=3;RQ=0;MQ=16;RF=0.0;AD=0,3;QS=0,111;ST=0,1
+NZ_CP068132.1	1753435	.	C	G	.	PASS	DP=3;RQ=0;MQ=16;RF=0.0;AD=0,3;QS=0,111;ST=0,1
+NZ_CP068132.1	1753436	.	T	C	.	PASS	DP=3;RQ=0;MQ=16;RF=0.0;AD=0,3;QS=0,111;ST=0,1
+NZ_CP068132.1	1753455	.	T	C	.	PASS	DP=3;RQ=0;MQ=16;RF=0.0;AD=0,3;QS=0,111;ST=0,1
+NZ_CP068132.1	1753456	.	T	A	.	PASS	DP=3;RQ=0;MQ=16;RF=0.0;AD=0,3;QS=0,111;ST=0,1
+NZ_CP068132.1	1753457	.	C	A	.	PASS	DP=3;RQ=0;MQ=16;RF=0.0;AD=0,3;QS=0,111;ST=0,1
+NZ_CP068132.1	1753498	.	C	T	.	PASS	DP=2;RQ=0;MQ=14;RF=0.0;AD=0,2;QS=0,59;ST=0,1

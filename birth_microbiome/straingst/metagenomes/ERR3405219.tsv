@@ -1,0 +1,6 @@
+sample	totalkmers	distinct	pkmers	pkcov	pan%
+ERR3405219	1458545470	58246412	59990	88.594	36.439
+i	strain	gkmers	ikmers	skmers	cov	kcov	gcov	acct	even	spec	rapct	old_rapct	wscore	score
+0	Ente_casseliflavus_FDAARGOS_1120	33810	33785	59990	0.789	156.856	121.956	0.786	0.789	0.996	17.083	28.655	0.384	0.386
+1	Ente_faecalis_DENG1	29165	29022	33345	0.826	2.760	2.251	0.058	0.924	0.955	0.315	0.454	0.039	0.041
+2	Ente_casseliflavus_EC-369	35222	9963	9365	0.376	152.789	56.586	0.536	0.376	0.986	19.041	3.926	0.028	0.029

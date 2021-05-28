@@ -1,0 +1,19 @@
+##fileformat=VCFv4.0
+##fileDate=2021-04-03 13:06:03.236665
+##source=StrainGR
+##reference=/gsap/archive-bacterial/Projects/StrainGE/strainge-benchmarks/birth_microbiome/straingr/concat_refs/C01658.fa
+##INFO=<ID=DP,Number=1,Type=Integer,Description="Coverage depth">
+##INFO=<ID=RQ,Number=1,Type=Integer,Description="Sum of reference base qualities">
+##INFO=<ID=MQ,Number=1,Type=Integer,Description="Mean mapping quality">
+##INFO=<ID=RF,Number=1,Type=Float,Description="Reference Fraction">
+##INFO=<ID=AD,Number=R,Type=Integer,Description="Allele read depths">
+##INFO=<ID=QS,Number=R,Type=Integer,Description="Sum of base qualities">
+##INFO=<ID=BF,Number=R,Type=Float,Description="Quality weighted base frequencies">
+##INFO=<ID=ST,Number=R,Type=Integer,Description="Which of the observed alleles have strong evidence">
+##ALT=<ID=INS,Description="Insertion">
+##ALT=<ID=DEL,Description="Deletion">
+##contig=<ID=NZ_CP046108.1,length=2910333>
+##contig=<ID=NZ_CP008816.1,length=2939973>
+##contig=<ID=NZ_CP014949.1,length=2803429>
+#CHROM	POS	ID	REF	ALT	QUAL	FILTER	INFO
+NZ_CP046108.1	2881588	.	C	T	.	PASS	DP=2;RQ=0;MQ=50;RF=0.0;AD=0,2;QS=0,66;ST=0,1

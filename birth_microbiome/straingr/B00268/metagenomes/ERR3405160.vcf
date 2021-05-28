@@ -1,0 +1,42 @@
+##fileformat=VCFv4.0
+##fileDate=2021-04-02 06:49:18.654082
+##source=StrainGR
+##reference=/gsap/archive-bacterial/Projects/StrainGE/strainge-benchmarks/birth_microbiome/straingr/concat_refs/B00268.fa
+##INFO=<ID=DP,Number=1,Type=Integer,Description="Coverage depth">
+##INFO=<ID=RQ,Number=1,Type=Integer,Description="Sum of reference base qualities">
+##INFO=<ID=MQ,Number=1,Type=Integer,Description="Mean mapping quality">
+##INFO=<ID=RF,Number=1,Type=Float,Description="Reference Fraction">
+##INFO=<ID=AD,Number=R,Type=Integer,Description="Allele read depths">
+##INFO=<ID=QS,Number=R,Type=Integer,Description="Sum of base qualities">
+##INFO=<ID=BF,Number=R,Type=Float,Description="Quality weighted base frequencies">
+##INFO=<ID=ST,Number=R,Type=Integer,Description="Which of the observed alleles have strong evidence">
+##ALT=<ID=INS,Description="Insertion">
+##ALT=<ID=DEL,Description="Deletion">
+##contig=<ID=NZ_CP014067.2,length=3733350>
+##contig=<ID=NZ_CP065535.1,length=2923777>
+##contig=<ID=NZ_CP022930.1,length=2983334>
+#CHROM	POS	ID	REF	ALT	QUAL	FILTER	INFO
+NZ_CP065535.1	349118	.	T	C	.	PASS	DP=2;RQ=0;MQ=60;RF=0.0;AD=0,2;QS=0,74;ST=0,1
+NZ_CP065535.1	350093	.	A	T	.	PASS	DP=2;RQ=0;MQ=60;RF=0.0;AD=0,2;QS=0,74;ST=0,1
+NZ_CP065535.1	350096	.	A	<DEL>	.	PASS	DP=2;RQ=0;MQ=60;RF=0.0;AD=0,2;QS=0,70;ST=0,1
+NZ_CP065535.1	350097	.	A	<DEL>	.	PASS	DP=2;RQ=0;MQ=60;RF=0.0;AD=0,2;QS=0,70;ST=0,1
+NZ_CP065535.1	350098	.	A	<DEL>	.	PASS	DP=2;RQ=0;MQ=60;RF=0.0;AD=0,2;QS=0,70;ST=0,1
+NZ_CP065535.1	350099	.	T	<DEL>	.	PASS	DP=2;RQ=0;MQ=60;RF=0.0;AD=0,2;QS=0,70;ST=0,1
+NZ_CP065535.1	350100	.	G	<DEL>	.	PASS	DP=2;RQ=0;MQ=60;RF=0.0;AD=0,2;QS=0,70;ST=0,1
+NZ_CP065535.1	350101	.	A	<DEL>	.	PASS	DP=2;RQ=0;MQ=60;RF=0.0;AD=0,2;QS=0,70;ST=0,1
+NZ_CP065535.1	350102	.	A	<DEL>	.	PASS	DP=2;RQ=0;MQ=60;RF=0.0;AD=0,2;QS=0,70;ST=0,1
+NZ_CP065535.1	350103	.	C	<DEL>	.	PASS	DP=2;RQ=0;MQ=60;RF=0.0;AD=0,2;QS=0,70;ST=0,1
+NZ_CP065535.1	350104	.	A	<DEL>	.	PASS	DP=2;RQ=0;MQ=60;RF=0.0;AD=0,2;QS=0,70;ST=0,1
+NZ_CP065535.1	350105	.	A	<DEL>	.	PASS	DP=2;RQ=0;MQ=60;RF=0.0;AD=0,2;QS=0,70;ST=0,1
+NZ_CP065535.1	350864	.	C	T	.	PASS	DP=2;RQ=0;MQ=60;RF=0.0;AD=0,2;QS=0,74;ST=0,1
+NZ_CP065535.1	352857	.	C	T	.	PASS	DP=2;RQ=0;MQ=60;RF=0.0;AD=0,2;QS=0,74;ST=0,1
+NZ_CP065535.1	352932	.	G	A	.	PASS	DP=3;RQ=0;MQ=60;RF=0.0;AD=0,3;QS=0,107;ST=0,1
+NZ_CP065535.1	352953	.	C	T	.	PASS	DP=2;RQ=0;MQ=60;RF=0.0;AD=0,2;QS=0,74;ST=0,1
+NZ_CP065535.1	353244	.	C	T	.	PASS	DP=3;RQ=0;MQ=60;RF=0.0;AD=0,3;QS=0,111;ST=0,1
+NZ_CP065535.1	353265	.	T	C	.	PASS	DP=3;RQ=0;MQ=60;RF=0.0;AD=0,3;QS=0,111;ST=0,1
+NZ_CP065535.1	353268	.	T	C	.	PASS	DP=3;RQ=0;MQ=60;RF=0.0;AD=0,3;QS=0,107;ST=0,1
+NZ_CP065535.1	353274	.	A	C	.	PASS	DP=2;RQ=0;MQ=60;RF=0.0;AD=0,2;QS=0,74;ST=0,1
+NZ_CP065535.1	353277	.	T	C	.	PASS	DP=2;RQ=0;MQ=60;RF=0.0;AD=0,2;QS=0,74;ST=0,1
+NZ_CP065535.1	353295	.	A	G	.	PASS	DP=2;RQ=0;MQ=60;RF=0.0;AD=0,2;QS=0,74;ST=0,1
+NZ_CP065535.1	353500	.	C	T	.	PASS	DP=2;RQ=0;MQ=60;RF=0.0;AD=0,2;QS=0,74;ST=0,1
+NZ_CP065535.1	353508	.	C	T	.	PASS	DP=2;RQ=0;MQ=60;RF=0.0;AD=0,2;QS=0,74;ST=0,1

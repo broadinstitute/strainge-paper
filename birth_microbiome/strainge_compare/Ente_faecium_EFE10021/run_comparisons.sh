@@ -1,0 +1,1 @@
+/cil/shed/apps/internal/conda/envs/strainge/bin/straingr compare -o strainge_compare/Ente_faecium_EFE10021/ERR3405903.vs.ERR3405987.summary.tsv -d strainge_compare/Ente_faecium_EFE10021/ERR3405903.vs.ERR3405987.details.tsv   straingr/B02416/metagenomes/ERR3405903.hdf5 straingr/B02458/metagenomes/ERR3405987.hdf5

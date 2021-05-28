@@ -1,0 +1,1 @@
+/cil/shed/apps/internal/conda/envs/strainge/bin/straingr compare -o strainge_compare/Ente_hirae_FDAARGOS_1057/ERR3405863.vs.ERR3405519.summary.tsv -d strainge_compare/Ente_hirae_FDAARGOS_1057/ERR3405863.vs.ERR3405519.details.tsv   straingr/A01938/metagenomes/ERR3405863.hdf5 straingr/C01442/metagenomes/ERR3405519.hdf5

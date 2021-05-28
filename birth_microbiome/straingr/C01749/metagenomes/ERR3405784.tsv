@@ -1,0 +1,5 @@
+ref	name	length	coverage	uReads	abundance	median	callable	callablePct	confirmed	confirmedPct	snps	snpPct	multi	multiPct	lowmq	lowmqPct	high	highPct	gapCount	gapLength
+Ente_sp._FDAARGOS_553	NZ_CP033740.1	3150721	0.005	20	0.000	0	302	0.010	296	98.013	6	2.000	2	0.662	3392	0.108	0	0.000	0	0
+Ente_avium_352	NZ_CP034169.1	4794392	0.006	40	0.001	0	857	0.018	857	100.000	0	0.000	0	0.000	7012	0.146	1479	0.031	3	3830972
+Ente_faecalis_LD33	NZ_CP014949.1	2803429	0.012	123	0.003	0	29	0.001	29	100.000	0	0.000	0	0.000	5120	0.183	788	0.028	0	0
+TOTAL	-	10748542	0.007	183	0.004	0	1188	0.011	1182	99.495	6	0.506	2	0.168	15524	0.144	2267	0.021	3	3830972

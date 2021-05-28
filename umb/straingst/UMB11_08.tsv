@@ -1,4 +1,4 @@
 sample	totalkmers	distinct	pkmers	pkcov	pan%
 UMB11_08	2246354829	467948566	31599	2.241	0.315
-i	strain	gkmers	ikmers	skmers	cov	kcov	gcov	acct	even	spec	rapct	wscore	score
-0	Esch_coli_1190	48261	48248	31599	0.592	2.243	1.309	0.904	0.810	0.980	0.285	0.344	0.351
+i	strain	gkmers	ikmers	skmers	cov	kcov	gcov	acct	even	spec	rapct	old_rapct	wscore	score
+0	Esch_coli_1190	48261	48248	31599	0.592	2.243	1.309	0.904	0.810	0.980	0.315	0.285	0.344	0.351

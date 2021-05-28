@@ -1,0 +1,40 @@
+##fileformat=VCFv4.0
+##fileDate=2021-04-02 01:29:53.930897
+##source=StrainGR
+##reference=/gsap/archive-bacterial/Projects/StrainGE/strainge-benchmarks/birth_microbiome/straingr/concat_refs/A00541.fa
+##INFO=<ID=DP,Number=1,Type=Integer,Description="Coverage depth">
+##INFO=<ID=RQ,Number=1,Type=Integer,Description="Sum of reference base qualities">
+##INFO=<ID=MQ,Number=1,Type=Integer,Description="Mean mapping quality">
+##INFO=<ID=RF,Number=1,Type=Float,Description="Reference Fraction">
+##INFO=<ID=AD,Number=R,Type=Integer,Description="Allele read depths">
+##INFO=<ID=QS,Number=R,Type=Integer,Description="Sum of base qualities">
+##INFO=<ID=BF,Number=R,Type=Float,Description="Quality weighted base frequencies">
+##INFO=<ID=ST,Number=R,Type=Integer,Description="Which of the observed alleles have strong evidence">
+##ALT=<ID=INS,Description="Insertion">
+##ALT=<ID=DEL,Description="Deletion">
+##contig=<ID=NC_020995.1,length=3427276>
+##contig=<ID=NZ_CP050490.1,length=3450044>
+#CHROM	POS	ID	REF	ALT	QUAL	FILTER	INFO
+NC_020995.1	3149808	.	C	<INS>	.	PASS	DP=2;RQ=0;MQ=20;RF=0.0;AD=0,2;QS=0,74;ST=0,1
+NC_020995.1	3149811	.	C	A	.	PASS	DP=2;RQ=0;MQ=20;RF=0.0;AD=0,2;QS=0,74;ST=0,1
+NC_020995.1	3149814	.	T	C	.	PASS	DP=2;RQ=0;MQ=20;RF=0.0;AD=0,2;QS=0,74;ST=0,1
+NC_020995.1	3149815	.	C	A	.	PASS	DP=2;RQ=0;MQ=20;RF=0.0;AD=0,2;QS=0,74;ST=0,1
+NC_020995.1	3149819	.	A	C	.	PASS	DP=2;RQ=0;MQ=20;RF=0.0;AD=0,2;QS=0,74;ST=0,1
+NC_020995.1	3149822	.	C	<DEL>	.	PASS	DP=2;RQ=0;MQ=20;RF=0.0;AD=0,2;QS=0,74;ST=0,1
+NC_020995.1	3149823	.	C	<DEL>	.	PASS	DP=2;RQ=0;MQ=20;RF=0.0;AD=0,2;QS=0,74;ST=0,1
+NC_020995.1	3149874	.	T	A	.	PASS	DP=2;RQ=0;MQ=20;RF=0.0;AD=0,2;QS=0,74;ST=0,1
+NC_020995.1	3149983	.	A	C	.	PASS	DP=2;RQ=0;MQ=20;RF=0.0;AD=0,2;QS=0,74;ST=0,1
+NC_020995.1	3150002	.	A	C	.	PASS	DP=3;RQ=0;MQ=20;RF=0.0;AD=0,3;QS=0,111;ST=0,1
+NC_020995.1	3150004	.	C	A	.	PASS	DP=3;RQ=0;MQ=20;RF=0.0;AD=0,3;QS=0,111;ST=0,1
+NC_020995.1	3150012	.	T	<DEL>	.	PASS	DP=3;RQ=0;MQ=20;RF=0.0;AD=0,3;QS=0,111;ST=0,1
+NC_020995.1	3150013	.	T	A	.	PASS	DP=3;RQ=0;MQ=20;RF=0.0;AD=0,3;QS=0,111;ST=0,1
+NC_020995.1	3150048	.	T	C	.	PASS	DP=3;RQ=0;MQ=20;RF=0.0;AD=0,3;QS=0,111;ST=0,1
+NC_020995.1	3150049	.	C	A	.	PASS	DP=3;RQ=0;MQ=20;RF=0.0;AD=0,3;QS=0,111;ST=0,1
+NC_020995.1	3150051	.	C	T	.	PASS	DP=3;RQ=0;MQ=20;RF=0.0;AD=0,3;QS=0,111;ST=0,1
+NC_020995.1	3150053	.	T	G	.	PASS	DP=3;RQ=0;MQ=20;RF=0.0;AD=0,3;QS=0,111;ST=0,1
+NC_020995.1	3150055	.	A	T	.	PASS	DP=3;RQ=0;MQ=20;RF=0.0;AD=0,3;QS=0,111;ST=0,1
+NC_020995.1	3150056	.	A	G	.	PASS	DP=3;RQ=0;MQ=20;RF=0.0;AD=0,3;QS=0,111;ST=0,1
+NC_020995.1	3150065	.	C	T	.	PASS	DP=3;RQ=0;MQ=20;RF=0.0;AD=0,3;QS=0,111;ST=0,1
+NC_020995.1	3150070	.	G	C	.	PASS	DP=3;RQ=0;MQ=20;RF=0.0;AD=0,3;QS=0,111;ST=0,1
+NC_020995.1	3150071	.	C	A	.	PASS	DP=3;RQ=0;MQ=20;RF=0.0;AD=0,3;QS=0,111;ST=0,1
+NC_020995.1	3150072	.	T	G	.	PASS	DP=3;RQ=0;MQ=20;RF=0.0;AD=0,3;QS=0,111;ST=0,1

@@ -1,0 +1,5 @@
+sample	totalkmers	distinct	pkmers	pkcov	pan%
+ERR3402659	319174942	24943863	34816	79.214	86.407
+i	strain	gkmers	ikmers	skmers	cov	kcov	gcov	acct	even	spec	rapct	old_rapct	wscore	score
+0	Ente_faecalis_L12	26401	26400	34816	0.916	90.994	82.287	0.798	0.916	0.999	44.517	68.926	0.612	0.613
+1	Ente_faecalis_FDAARGOS_324	28770	8316	10639	0.524	76.881	39.082	0.600	0.524	1.117	41.891	10.492	0.077	0.086

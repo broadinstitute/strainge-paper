@@ -1,0 +1,28 @@
+##fileformat=VCFv4.0
+##fileDate=2021-04-02 04:10:11.291700
+##source=StrainGR
+##reference=/gsap/archive-bacterial/Projects/StrainGE/strainge-benchmarks/birth_microbiome/straingr/concat_refs/C01204.fa
+##INFO=<ID=DP,Number=1,Type=Integer,Description="Coverage depth">
+##INFO=<ID=RQ,Number=1,Type=Integer,Description="Sum of reference base qualities">
+##INFO=<ID=MQ,Number=1,Type=Integer,Description="Mean mapping quality">
+##INFO=<ID=RF,Number=1,Type=Float,Description="Reference Fraction">
+##INFO=<ID=AD,Number=R,Type=Integer,Description="Allele read depths">
+##INFO=<ID=QS,Number=R,Type=Integer,Description="Sum of base qualities">
+##INFO=<ID=BF,Number=R,Type=Float,Description="Quality weighted base frequencies">
+##INFO=<ID=ST,Number=R,Type=Integer,Description="Which of the observed alleles have strong evidence">
+##ALT=<ID=INS,Description="Insertion">
+##ALT=<ID=DEL,Description="Deletion">
+##contig=<ID=NZ_CP014949.1,length=2803429>
+##contig=<ID=NZ_CP045045.1,length=2933718>
+##contig=<ID=NZ_CP034169.1,length=4794392>
+#CHROM	POS	ID	REF	ALT	QUAL	FILTER	INFO
+NZ_CP014949.1	1056367	.	G	C	.	PASS	DP=4;RQ=0;MQ=24;RF=0.0;AD=0,4;QS=0,144;ST=0,1
+NZ_CP014949.1	1056864	.	T	C	.	PASS	DP=2;RQ=0;MQ=24;RF=0.0;AD=0,2;QS=0,74;ST=0,1
+NZ_CP014949.1	1056967	.	A	G	.	PASS	DP=4;RQ=0;MQ=24;RF=0.0;AD=0,4;QS=0,144;ST=0,1
+NZ_CP034169.1	4377932	.	G	<INS>	.	PASS	DP=2;RQ=0;MQ=57;RF=0.0;AD=0,2;QS=0,74;ST=0,1
+NZ_CP034169.1	4377934	.	A	C	.	PASS	DP=2;RQ=0;MQ=57;RF=0.0;AD=0,2;QS=0,74;ST=0,1
+NZ_CP034169.1	4377943	.	G	T	.	PASS	DP=2;RQ=0;MQ=57;RF=0.0;AD=0,2;QS=0,74;ST=0,1
+NZ_CP034169.1	4377950	.	C	G	.	PASS	DP=2;RQ=0;MQ=57;RF=0.0;AD=0,2;QS=0,74;ST=0,1
+NZ_CP034169.1	4377965	.	C	G	.	PASS	DP=2;RQ=0;MQ=57;RF=0.0;AD=0,2;QS=0,74;ST=0,1
+NZ_CP034169.1	4377967	.	T	C	.	PASS	DP=2;RQ=0;MQ=57;RF=0.0;AD=0,2;QS=0,74;ST=0,1
+NZ_CP034169.1	4377981	.	A	G	.	PASS	DP=2;RQ=0;MQ=57;RF=0.0;AD=0,2;QS=0,70;ST=0,1

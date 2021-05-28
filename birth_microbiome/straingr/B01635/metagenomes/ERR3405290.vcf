@@ -1,0 +1,34 @@
+##fileformat=VCFv4.0
+##fileDate=2021-04-02 11:05:41.125774
+##source=StrainGR
+##reference=/gsap/archive-bacterial/Projects/StrainGE/strainge-benchmarks/birth_microbiome/straingr/concat_refs/B01635.fa
+##INFO=<ID=DP,Number=1,Type=Integer,Description="Coverage depth">
+##INFO=<ID=RQ,Number=1,Type=Integer,Description="Sum of reference base qualities">
+##INFO=<ID=MQ,Number=1,Type=Integer,Description="Mean mapping quality">
+##INFO=<ID=RF,Number=1,Type=Float,Description="Reference Fraction">
+##INFO=<ID=AD,Number=R,Type=Integer,Description="Allele read depths">
+##INFO=<ID=QS,Number=R,Type=Integer,Description="Sum of base qualities">
+##INFO=<ID=BF,Number=R,Type=Float,Description="Quality weighted base frequencies">
+##INFO=<ID=ST,Number=R,Type=Integer,Description="Which of the observed alleles have strong evidence">
+##ALT=<ID=INS,Description="Insertion">
+##ALT=<ID=DEL,Description="Deletion">
+##contig=<ID=NZ_LR134312.1,length=2719199>
+#CHROM	POS	ID	REF	ALT	QUAL	FILTER	INFO
+NZ_LR134312.1	228677	.	G	A	.	PASS	DP=2;RQ=0;MQ=40;RF=0.0;AD=0,2;QS=0,74;ST=0,1
+NZ_LR134312.1	228713	.	C	T	.	PASS	DP=2;RQ=0;MQ=40;RF=0.0;AD=0,2;QS=0,74;ST=0,1
+NZ_LR134312.1	228719	.	T	C	.	PASS	DP=2;RQ=0;MQ=40;RF=0.0;AD=0,2;QS=0,74;ST=0,1
+NZ_LR134312.1	228727	.	T	<DEL>	.	PASS	DP=2;RQ=0;MQ=40;RF=0.0;AD=0,2;QS=0,74;ST=0,1
+NZ_LR134312.1	228728	.	A	<DEL>	.	PASS	DP=2;RQ=0;MQ=40;RF=0.0;AD=0,2;QS=0,74;ST=0,1
+NZ_LR134312.1	228729	.	G	<DEL>	.	PASS	DP=2;RQ=0;MQ=40;RF=0.0;AD=0,2;QS=0,74;ST=0,1
+NZ_LR134312.1	228732	.	A	<INS>	.	PASS	DP=2;RQ=0;MQ=40;RF=0.0;AD=0,2;QS=0,74;ST=0,1
+NZ_LR134312.1	228739	.	T	A	.	PASS	DP=2;RQ=0;MQ=40;RF=0.0;AD=0,2;QS=0,74;ST=0,1
+NZ_LR134312.1	228740	.	A	G	.	PASS	DP=2;RQ=0;MQ=40;RF=0.0;AD=0,2;QS=0,74;ST=0,1
+NZ_LR134312.1	228741	.	C	T	.	PASS	DP=2;RQ=0;MQ=40;RF=0.0;AD=0,2;QS=0,74;ST=0,1
+NZ_LR134312.1	229000	.	A	<DEL>	.	PASS	DP=2;RQ=0;MQ=48;RF=0.0;AD=0,2;QS=0,70;ST=0,1
+NZ_LR134312.1	229001	.	T	<DEL>	.	PASS	DP=2;RQ=0;MQ=48;RF=0.0;AD=0,2;QS=0,70;ST=0,1
+NZ_LR134312.1	229003	.	A	C	.	PASS	DP=2;RQ=0;MQ=48;RF=0.0;AD=0,2;QS=0,51;ST=0,1
+NZ_LR134312.1	229005	.	A	T	.	PASS	DP=2;RQ=0;MQ=48;RF=0.0;AD=0,2;QS=0,51;ST=0,1
+NZ_LR134312.1	229006	.	A	C	.	PASS	DP=2;RQ=0;MQ=48;RF=0.0;AD=0,2;QS=0,64;ST=0,1
+NZ_LR134312.1	229011	.	T	G	.	PASS	DP=2;RQ=0;MQ=48;RF=0.0;AD=0,2;QS=0,74;ST=0,1
+NZ_LR134312.1	229012	.	A	<INS>	.	PASS	DP=2;RQ=0;MQ=48;RF=0.0;AD=0,2;QS=0,64;ST=0,1
+NZ_LR134312.1	229018	.	C	G	.	PASS	DP=2;RQ=0;MQ=48;RF=0.0;AD=0,2;QS=0,51;ST=0,1
